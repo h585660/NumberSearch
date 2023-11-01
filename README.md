@@ -12,7 +12,7 @@ This project is a personal-use Android application developed in Java using Andro
 ## Development Environment
 - **Language**: Java
 - **IDE**: Android Studio
-- **SDK**: Android SDK (Version details)
+- **SDK**: Android SDK 
 
 
 ## Usage
